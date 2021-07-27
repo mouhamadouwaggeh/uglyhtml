@@ -1,0 +1,22 @@
+h1 {
+    color: yellow;
+    border: 10px solid blue;
+    text-align: center;
+}
+
+#starters_image_div {
+    text-align: center;
+border: 3px solid blue;
+color: rgb(255, 0, 0);
+}
+
+div img {
+    text-align: center;
+}
+
+#bulbasaur_container {
+    color: rgb(7, 207, 90)
+
+    border 5px solid green;
+    
+}
